@@ -19,9 +19,7 @@ class Exiftool
     end
 
     def value
-      @value ||= if lat_long?
-        as_lat_long
-      elsif date?
+      @value ||= if date?
         as_date
       elsif fraction?
         as_fraction
@@ -40,18 +38,6 @@ class Exiftool
     end
 
     private
-
-    def lat_long?
-      sym_key == :gps_latitude || sym_key == :gps_longitude
-    end
-
-    def as_lat_long
-      return raw_value if raw_value.is_a?(Numeric)
-      value, direction = raw_value.split(' ')
-      if value =~ /\A\d+\.?\d*\z/
-        value.to_f * (['S', 'W'].include?(direction) ? -1 : 1)
-      end
-    end
 
     def date?
       raw_value.is_a?(String) && display_key =~ /\bdate\b/i

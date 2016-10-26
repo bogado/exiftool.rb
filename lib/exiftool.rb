@@ -45,7 +45,7 @@ class Exiftool
       end.join(' ')
       # I'd like to use -dateformat, but it doesn't support timezone offsets properly,
       # nor sub-second timestamps.
-      cmd = "#{self.class.command} #{exiftool_opts} -j -coordFormat \"%.8f\" #{escaped_filenames} 2> /dev/null"
+      cmd = "#{self.class.command} #{exiftool_opts} -j -n #{escaped_filenames} 2> /dev/null"
       json = `#{cmd}`.chomp
       raise ExiftoolNotInstalled if json == ''
       JSON.parse(json).each do |raw|

@@ -1,76 +1,70 @@
 ---
 :file_name: iPhone 4S.jpg
-:file_size: 1954 kB
+:file_size: 2000723
 :file_type: JPEG
-:file_type_extension: jpg
+:file_type_extension: JPG
 :mime_type: image/jpeg
-:exif_byte_order: Big-endian (Motorola, MM)
+:exif_byte_order: MM
 :make: Apple
 :model: iPhone 4S
-:orientation: Horizontal (normal)
+:orientation: 1
 :x_resolution: 72
 :y_resolution: 72
-:resolution_unit: inches
+:resolution_unit: 2
 :software: 5.0.1
 :modify_date: 2011:11:23 09:39:52
 :modify_date_civil: 2011-11-23
-:y_cb_cr_positioning: Centered
-:exposure_time: !ruby/object:Rational
-  denominator: 6135
-  numerator: 1
+:y_cb_cr_positioning: 1
+:exposure_time: 0.000162999185
 :f_number: 2.4
-:exposure_program: Program AE
+:exposure_program: 2
 :iso: 64
 :exif_version: '0221'
 :date_time_original: 2011:11:23 09:39:52
 :date_time_original_civil: 2011-11-23
 :create_date: 2011:11:23 09:39:52
 :create_date_civil: 2011-11-23
-:components_configuration: Y, Cb, Cr, -
-:shutter_speed_value: !ruby/object:Rational
-  denominator: 6135
-  numerator: 1
-:aperture_value: 2.4
+:components_configuration: 1 2 3 0
+:shutter_speed_value: '0.000163000019782543'
+:aperture_value: 2.40000000859426
 :brightness_value: 11.27442702
-:metering_mode: Multi-segment
-:flash: Auto, Did not fire
-:focal_length: 4.3 mm
+:metering_mode: 5
+:flash: 24
+:focal_length: 4.28
 :subject_area: 1631 1223 881 881
 :flashpix_version: '0100'
-:color_space: sRGB
+:color_space: 1
 :exif_image_width: 3264
 :exif_image_height: 2448
-:sensing_method: One-chip color area
-:exposure_mode: Auto
-:white_balance: Auto
-:focal_length_in35mm_format: 35 mm
-:scene_capture_type: Standard
-:sharpness: Normal
-:gps_latitude_ref: North
-:gps_longitude_ref: West
-:gps_altitude_ref: Above Sea Level
+:sensing_method: 2
+:exposure_mode: 0
+:white_balance: 0
+:focal_length_in35mm_format: 35
+:scene_capture_type: 0
+:sharpness: 0
+:gps_latitude_ref: N
+:gps_longitude_ref: W
+:gps_altitude_ref: 0
 :gps_time_stamp: '19:03:32'
-:gps_img_direction_ref: True North
+:gps_img_direction_ref: T
 :gps_img_direction: 121.9838275
-:compression: JPEG (old-style)
+:compression: 6
 :thumbnail_offset: 914
 :thumbnail_length: 5987
 :image_width: 3264
 :image_height: 2448
-:encoding_process: Baseline DCT, Huffman coding
+:encoding_process: 0
 :bits_per_sample: 8
 :color_components: 3
-:y_cb_cr_sub_sampling: YCbCr4:2:0 (2 2)
+:y_cb_cr_sub_sampling: 2 2
 :aperture: 2.4
-:gps_altitude: 14.2 m Above Sea Level
-:gps_latitude: 37.50233333
-:gps_longitude: -122.47566667
-:gps_position: 37.50233333 N, 122.47566667 W
+:gps_altitude: 14.27114716
+:gps_latitude: 37.5023333333333
+:gps_longitude: -122.475666666667
+:gps_position: 37.5023333333333 -122.475666666667
 :image_size: 3264x2448
-:megapixels: 8.0
-:shutter_speed: !ruby/object:Rational
-  denominator: 6135
-  numerator: 1
-:fov: 54.4 deg
-:hyperfocal_distance: 2.08 m
-:light_value: 15.8
+:megapixels: 7.990272
+:shutter_speed: 0.000162999185
+:light_value: 15.7527726300286
+:fov: 54.4322690915858
+:hyperfocal_distance: 2.07735223486348

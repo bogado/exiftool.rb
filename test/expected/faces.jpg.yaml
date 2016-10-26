@@ -1,112 +1,106 @@
 ---
 :file_name: faces.jpg
-:file_size: 3.8 MB
+:file_size: 3966823
 :file_type: JPEG
-:file_type_extension: jpg
+:file_type_extension: JPG
 :mime_type: image/jpeg
-:exif_byte_order: Little-endian (Intel, II)
+:exif_byte_order: II
 :make: Canon
 :model: Canon EOS 20D
-:orientation: Horizontal (normal)
+:orientation: 1
 :x_resolution: 72
 :y_resolution: 72
-:resolution_unit: inches
+:resolution_unit: 2
 :software: Picasa
 :modify_date: 2012:02:15 22:58:07
 :modify_date_civil: 2012-02-15
-:y_cb_cr_positioning: Co-sited
-:exposure_time: !ruby/object:Rational
-  denominator: 4000
-  numerator: 1
-:f_number: 4.0
-:exposure_program: Not Defined
+:y_cb_cr_positioning: 2
+:exposure_time: 0.00025
+:f_number: 4
+:exposure_program: 0
 :iso: 400
 :exif_version: '0221'
 :date_time_original: 2005:11:26 14:20:34
 :date_time_original_civil: 2005-11-26
 :create_date: 2005:11:26 14:20:34
 :create_date_civil: 2005-11-26
-:components_configuration: Y, Cb, Cr, -
-:shutter_speed_value: !ruby/object:Rational
-  denominator: 4000
-  numerator: 1
-:aperture_value: 4.0
-:flash: Off, Did not fire
-:focal_length: 17.0 mm
-:macro_mode: Normal
-:self_timer: 'Off'
-:quality: Fine
-:canon_flash_mode: 'Off'
-:continuous_drive: Single
-:focus_mode: One-shot AF
-:record_mode: JPEG
-:canon_image_size: Large
-:easy_mode: Manual
-:digital_zoom: None
-:contrast: Normal
-:saturation: Normal
+:components_configuration: 1 2 3 0
+:shutter_speed_value: '0.000249999045999457'
+:aperture_value: 4
+:flash: 16
+:focal_length: 17
+:macro_mode: 2
+:self_timer: 0
+:quality: 3
+:canon_flash_mode: 0
+:continuous_drive: 0
+:focus_mode: 0
+:record_mode: 1
+:canon_image_size: 0
+:easy_mode: 1
+:digital_zoom: 0
+:contrast: 0
+:saturation: 0
 :sharpness: 0
-:metering_mode: Center-weighted average
-:focus_range: Not Known
-:canon_exposure_mode: Depth-of-field AE
-:lens_type: n/a
-:focal_units: 1/mm
+:metering_mode: 5
+:focus_range: 2
+:canon_exposure_mode: 5
+:lens_type: -1
+:focal_units: 1
 :flash_activity: 0
-:flash_bits: "(none)"
-:focus_continuous: Single
+:flash_bits: 0
+:focus_continuous: 0
 :zoom_source_width: 0
 :zoom_target_width: 0
-:photo_effect: 'Off'
-:manual_flash_output: n/a
-:focal_type: Zoom
-:focal_plane_x_size: 23.04 mm
-:focal_plane_y_size: 15.37 mm
+:photo_effect: 0
+:manual_flash_output: 32767
+:focal_type: 2
+:focal_plane_x_size: 23.0378
+:focal_plane_y_size: 15.367
 :auto_iso: 100
 :base_iso: 400
-:measured_ev: 14.12
+:measured_ev: 14.125
 :target_aperture: 4
-:target_exposure_time: !ruby/object:Rational
-  denominator: 4008
-  numerator: 1
+:target_exposure_time: '0.000249486608558134'
 :exposure_compensation: 0
-:white_balance: Auto
-:slow_shutter: None
+:white_balance: 0
+:slow_shutter: 3
 :sequence_number: 0
-:optical_zoom_code: n/a
+:optical_zoom_code: 8
 :flash_guide_number: 0
-:flash_exposure_comp: "+2/3"
-:auto_exposure_bracketing: 'Off'
+:flash_exposure_comp: 0.666666666666667
+:auto_exposure_bracketing: 0
 :aeb_bracket_value: 0
-:control_mode: Camera Local Control
+:control_mode: 1
 :measured_ev2: 14.125
 :bulb_duration: 0
-:camera_type: EOS Mid-range
-:auto_rotate: None
-:nd_filter: n/a
+:camera_type: 252
+:auto_rotate: 0
+:nd_filter: -1
 :self_timer2: 0
 :canon_image_type: Canon EOS 20D
 :canon_firmware_version: Firmware 2.0.3
 :owner_name: unknown
-:serial_number: 0720413239
-:set_function_when_shooting: Change quality
-:long_exposure_noise_reduction: 'On'
-:flash_sync_speed_av: Auto
-:shutter-ae_lock: AF/AE lock
-:af_assist_beam: Emits
-:exposure_level_increments: 1/3 Stop
-:flash_firing: Fires
-:iso_expansion: 'Off'
-:aeb_sequence_auto_cancel: 0,-,+/Enabled
-:superimposed_display: 'On'
-:menu_button_display_position: Previous (top if power off)
-:mirror_lockup: Disable
-:af_point_selection_method: Normal
-:ettlii: Evaluative
-:shutter_curtain_sync: 1st-curtain sync
-:safety_shift_in_av_or_tv: Enable
-:lens_af_stop_button: ONE SHOT <-> AI SERVO
-:add_original_decision_data: 'On'
-:canon_model_id: EOS 20D
+:serial_number: 720413239
+:set_function_when_shooting: 1
+:long_exposure_noise_reduction: 1
+:flash_sync_speed_av: 0
+:shutter-ae_lock: 0
+:af_assist_beam: 0
+:exposure_level_increments: 0
+:flash_firing: 0
+:iso_expansion: 0
+:aeb_sequence_auto_cancel: 0
+:superimposed_display: 0
+:menu_button_display_position: 0
+:mirror_lockup: 0
+:af_point_selection_method: 0
+:ettlii: 0
+:shutter_curtain_sync: 0
+:safety_shift_in_av_or_tv: 1
+:lens_af_stop_button: 4
+:add_original_decision_data: 1
+:canon_model_id: 2147484021
 :num_af_points: 9
 :valid_af_points: 9
 :canon_image_width: 3504
@@ -117,28 +111,28 @@
 :af_area_height: 78
 :af_area_x_positions: 8 -555 571 -931 8 947 -555 571 8
 :af_area_y_positions: 504 270 270 4 4 4 -262 -262 -496
-:af_points_in_focus: 0,1,2,3,4,5,6,7,8
+:af_points_in_focus: 511
 :thumbnail_image_valid_area: 0 159 7 112
-:serial_number_format: Format 2
+:serial_number_format: 2684354560
 :original_decision_data_offset: 3968887
-:file_number: 326-2647
-:bracket_mode: 'Off'
+:file_number: 3262647
+:bracket_mode: 0
 :bracket_value: 0
 :bracket_shot_number: 0
-:long_exposure_noise_reduction2: 'Off'
-:wb_bracket_mode: 'Off'
+:long_exposure_noise_reduction2: 0
+:wb_bracket_mode: 0
 :wb_bracket_value_ab: 0
 :wb_bracket_value_gm: 0
-:filter_effect: None
-:toning_effect: None
-:tone_curve: Standard
-:sharpness_frequency: n/a
+:filter_effect: 0
+:toning_effect: 0
+:tone_curve: 0
+:sharpness_frequency: 0
 :sensor_red_level: 0
 :sensor_blue_level: 0
 :white_balance_red: 0
 :white_balance_blue: 0
 :color_temperature: 4300
-:picture_style: None
+:picture_style: 0
 :digital_gain: 0
 :wb_shift_ab: 0
 :wb_shift_gm: 0
@@ -174,21 +168,21 @@
 :color_temp_custom1: 2694
 :wb_rggb_levels_custom2: 1734 1023 1023 1901
 :color_temp_custom2: 4301
-:color_tone: Normal
+:color_tone: 0
 :user_comment: ''
 :flashpix_version: '0100'
-:color_space: sRGB
+:color_space: 1
 :exif_image_width: 3504
 :exif_image_height: 2336
-:interop_index: R98 - DCF basic file (sRGB)
+:interop_index: R98
 :interop_version: '0100'
 :focal_plane_x_resolution: 3959.322034
 :focal_plane_y_resolution: 3959.322034
-:focal_plane_resolution_unit: inches
-:custom_rendered: Normal
-:exposure_mode: Auto
-:scene_capture_type: Standard
-:compression: JPEG (old-style)
+:focal_plane_resolution_unit: 2
+:custom_rendered: 0
+:exposure_mode: 0
+:scene_capture_type: 0
+:compression: 6
 :thumbnail_offset: 4036
 :thumbnail_length: 12170
 :xmp_toolkit: XMP Core 5.1.2
@@ -238,22 +232,22 @@
 - normalized
 - normalized
 :profile_cmm_type: appl
-:profile_version: 2.2.0
-:profile_class: Input Device Profile
+:profile_version: 544
+:profile_class: scnr
 :color_space_data: 'RGB '
 :profile_connection_space: 'XYZ '
 :profile_date_time: 2003:07:01 00:00:00
 :profile_date_time_civil: 2003-07-01
 :profile_file_signature: acsp
-:primary_platform: Apple Computer Inc.
-:cmm_flags: Not Embedded, Independent
+:primary_platform: APPL
+:cmm_flags: 0
 :device_manufacturer: appl
 :device_model: ''
-:device_attributes: Reflective, Glossy, Positive, Color
-:rendering_intent: Perceptual
+:device_attributes: 0 0
+:rendering_intent: 0
 :connection_space_illuminant: 0.9642 1 0.82491
 :profile_creator: appl
-:profile_id: 0
+:profile_id: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 :red_matrix_column: 0.45427 0.24263 0.01482
 :green_matrix_column: 0.35332 0.67441 0.09042
 :blue_matrix_column: 0.15662 0.08336 0.71953
@@ -282,29 +276,28 @@
 :profile_description_ml-zh-cn: 相机 RGB 描述文件
 :current_iptc_digest: b443520a10119da99c2550175e6d0efb
 :envelope_record_version: 4
-:coded_character_set: UTF8
+:coded_character_set: !binary |-
+  GyVH
 :application_record_version: 4
 :iptc_digest: b443520a10119da99c2550175e6d0efb
 :image_width: 3504
 :image_height: 2336
-:encoding_process: Baseline DCT, Huffman coding
+:encoding_process: 0
 :bits_per_sample: 8
 :color_components: 3
-:y_cb_cr_sub_sampling: YCbCr4:2:2 (2 1)
-:aperture: 4.0
-:drive_mode: Single-frame Shooting
+:y_cb_cr_sub_sampling: 2 1
+:aperture: 4
+:drive_mode: 2
 :image_size: 3504x2336
-:lens: 17.0 - 40.0 mm
-:lens_id: Unknown 17-40mm
-:megapixels: 8.2
+:lens: 17
+:lens_id: -1
+:megapixels: 8.185344
 :warning: Invalid original decision data
-:shooting_mode: Depth-of-field AE
-:shutter_speed: !ruby/object:Rational
-  denominator: 4000
-  numerator: 1
+:shooting_mode: 5
+:shutter_speed: 0.00025
 :wb_rggb_levels: 1822 1015 1015 1709
-:blue_balance: 1.683744
-:fov: 66.9 deg
-:hyperfocal_distance: 3.85 m
-:light_value: 14.0
-:red_balance: 1.795074
+:blue_balance: 1.68374384236453
+:fov: 66.9411904372194
+:hyperfocal_distance: 3.85099482285285
+:light_value: 13.9657842846621
+:red_balance: 1.79507389162562

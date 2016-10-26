@@ -1,25 +1,23 @@
 ---
 :file_name: IMG_2452.jpg
-:file_size: 2.8 MB
+:file_size: 2940995
 :file_type: JPEG
-:file_type_extension: jpg
+:file_type_extension: JPG
 :mime_type: image/jpeg
-:exif_byte_order: Big-endian (Motorola, MM)
+:exif_byte_order: MM
 :image_description: "                               "
 :make: Canon
 :model: Canon PowerShot SD980 IS
-:orientation: Horizontal (normal)
+:orientation: 1
 :x_resolution: 72
 :y_resolution: 72
-:resolution_unit: inches
+:resolution_unit: 2
 :software: QuickTime 7.6.6
 :modify_date: 2011:07:06 20:41:11
 :modify_date_civil: 2011-07-06
 :host_computer: Mac OS X 10.6.8
-:y_cb_cr_positioning: Co-sited
-:exposure_time: !ruby/object:Rational
-  denominator: 800
-  numerator: 1
+:y_cb_cr_positioning: 2
+:exposure_time: 0.00125
 :f_number: 2.8
 :iso: 160
 :exif_version: '0220'
@@ -27,82 +25,78 @@
 :date_time_original_civil: 2011-07-06
 :create_date: 2011:07:06 09:46:45
 :create_date_civil: 2011-07-06
-:components_configuration: Y, Cb, Cr, -
+:components_configuration: 1 2 3 0
 :compressed_bits_per_pixel: 3
-:shutter_speed_value: !ruby/object:Rational
-  denominator: 807
-  numerator: 1
-:aperture_value: 2.8
-:max_aperture_value: 2.8
-:flash: Auto, Did not fire
-:focal_length: 4.3 mm
+:shutter_speed_value: '0.00123930757538255'
+:aperture_value: 2.79795934507662
+:max_aperture_value: 2.79795934507662
+:flash: 24
+:focal_length: 4.3
 :warning: "[minor] Adjusted MakerNotes base by 50"
-:macro_mode: Normal
-:self_timer: 'Off'
-:quality: Fine
-:canon_flash_mode: Red-eye reduction (Auto)
-:continuous_drive: Single
-:focus_mode: Single
-:record_mode: JPEG
-:canon_image_size: Widescreen
-:easy_mode: Full auto
-:digital_zoom: None
-:contrast: Normal
-:saturation: Normal
+:macro_mode: 2
+:self_timer: 0
+:quality: 3
+:canon_flash_mode: 5
+:continuous_drive: 0
+:focus_mode: 4
+:record_mode: 1
+:canon_image_size: 9
+:easy_mode: 0
+:digital_zoom: 0
+:contrast: 0
+:saturation: 0
 :sharpness: 0
 :camera_iso: Auto
-:metering_mode: Evaluative
-:focus_range: Auto
-:af_point: Face Detect
-:canon_exposure_mode: Easy
-:lens_type: n/a
-:focal_units: 1000/mm
-:max_aperture: 2.8
+:metering_mode: 3
+:focus_range: 1
+:af_point: 16390
+:canon_exposure_mode: 0
+:lens_type: -1
+:focal_units: 1000
+:max_aperture: 2.79795934507662
 :min_aperture: 8
-:flash_bits: "(none)"
-:focus_continuous: Continuous
-:ae_setting: Normal AE
-:image_stabilization: 'On'
+:flash_bits: 0
+:focus_continuous: 1
+:ae_setting: 0
+:image_stabilization: 1
 :zoom_source_width: 4000
 :zoom_target_width: 4000
-:spot_metering_mode: Center
-:manual_flash_output: n/a
-:focal_type: Zoom
-:focal_plane_x_size: 6.35 mm
-:focal_plane_y_size: 3.56 mm
-:auto_iso: 148
+:spot_metering_mode: 0
+:manual_flash_output: 0
+:focal_type: 2
+:focal_plane_x_size: 6.35
+:focal_plane_y_size: 3.556
+:auto_iso: 147.68261459395
 :base_iso: 100
 :measured_ev: 13.25
-:target_aperture: 2.8
-:target_exposure_time: !ruby/object:Rational
-  denominator: 807
-  numerator: 1
+:target_aperture: 2.79795934507662
+:target_exposure_time: '0.00123930757538255'
 :exposure_compensation: 0
-:white_balance: Auto
-:slow_shutter: 'Off'
+:white_balance: 0
+:slow_shutter: 0
 :sequence_number: 0
 :optical_zoom_code: 0
 :flash_guide_number: 0
 :flash_exposure_comp: 0
-:auto_exposure_bracketing: 'Off'
+:auto_exposure_bracketing: 0
 :aeb_bracket_value: 0
-:control_mode: Camera Local Control
-:focus_distance_upper: 65.53 m
-:focus_distance_lower: 0 m
+:control_mode: 1
+:focus_distance_upper: 65.53
+:focus_distance_lower: 0
 :bulb_duration: 0
-:camera_type: Compact
-:auto_rotate: Rotate 270 CW
-:nd_filter: 'Off'
+:camera_type: 250
+:auto_rotate: 3
+:nd_filter: 0
 :self_timer2: 0
 :flash_output: 0
 :canon_image_type: IMG:PowerShot SD980 IS JPEG
 :canon_firmware_version: Firmware Version 1.01
-:file_number: 132-2452
+:file_number: 1322452
 :owner_name: ''
 :rotation: 270
-:camera_temperature: 29 C
-:canon_model_id: PowerShot SD980 IS / Digital IXUS 200 IS / IXY Digital 930 IS
-:af_area_mode: Auto
+:camera_temperature: 29
+:canon_model_id: 41287680
+:af_area_mode: 4
 :num_af_points: 9
 :valid_af_points: 9
 :canon_image_width: 4000
@@ -113,30 +107,30 @@
 :af_area_heights: 18 18 18 18 18 18 18 18 18
 :af_area_x_positions: "-135 0 135 -135 0 135 -135 0 135"
 :af_area_y_positions: "-18 -18 -18 0 0 0 18 18 18"
-:af_points_in_focus: 4
+:af_points_in_focus: 16
 :primary_af_point: 4
 :thumbnail_image_valid_area: 0 159 15 104
-:date_stamp_mode: 'Off'
-:my_color_mode: 'Off'
-:firmware_revision: 1.01 rev 3.00
-:categories: "(none)"
+:date_stamp_mode: 0
+:my_color_mode: 0
+:firmware_revision: 16843520
+:categories: 0
 :image_unique_id: a3154f6d7ed923fe22415586cb3f8922
 :vrd_offset: 0
 :user_comment: ''
 :flashpix_version: '0100'
-:color_space: sRGB
+:color_space: 1
 :exif_image_width: 4000
 :exif_image_height: 2248
 :focal_plane_x_resolution: 16393.44262
 :focal_plane_y_resolution: 12284.15301
-:focal_plane_resolution_unit: inches
-:sensing_method: One-chip color area
-:file_source: Digital Camera
-:custom_rendered: Normal
-:exposure_mode: Auto
+:focal_plane_resolution_unit: 2
+:sensing_method: 2
+:file_source: 3
+:custom_rendered: 0
+:exposure_mode: 0
 :digital_zoom_ratio: 1
-:scene_capture_type: Standard
-:compression: JPEG (old-style)
+:scene_capture_type: 0
+:compression: 6
 :thumbnail_offset: 3480
 :thumbnail_length: 4627
 :comment: 'AppleMark
@@ -144,27 +138,27 @@
 '
 :image_width: 2248
 :image_height: 4000
-:encoding_process: Baseline DCT, Huffman coding
+:encoding_process: 0
 :bits_per_sample: 8
 :color_components: 3
-:y_cb_cr_sub_sampling: YCbCr4:2:2 (2 1)
+:y_cb_cr_sub_sampling: 2 1
 :profile_cmm_type: Lino
-:profile_version: 2.1.0
-:profile_class: Display Device Profile
+:profile_version: 528
+:profile_class: mntr
 :color_space_data: 'RGB '
 :profile_connection_space: 'XYZ '
 :profile_date_time: 1998:02:09 06:49:00
 :profile_date_time_civil: 1998-02-09
 :profile_file_signature: acsp
-:primary_platform: Microsoft Corporation
-:cmm_flags: Not Embedded, Independent
+:primary_platform: MSFT
+:cmm_flags: 0
 :device_manufacturer: 'IEC '
 :device_model: sRGB
-:device_attributes: Reflective, Glossy, Positive, Color
-:rendering_intent: Perceptual
+:device_attributes: 0 0
+:rendering_intent: 0
 :connection_space_illuminant: 0.9642 1 0.82491
 :profile_creator: 'HP  '
-:profile_id: 0
+:profile_id: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 :profile_copyright: Copyright (c) 1998 Hewlett-Packard Company
 :profile_description: sRGB IEC61966-2.1
 :media_white_point: 0.95045 1 1.08905
@@ -177,28 +171,26 @@
 :viewing_cond_desc: Reference Viewing Condition in IEC61966-2.1
 :viewing_cond_illuminant: 19.6445 20.3718 16.8089
 :viewing_cond_surround: 3.92889 4.07439 3.36179
-:viewing_cond_illuminant_type: D50
+:viewing_cond_illuminant_type: 1
 :luminance: 76.03647 80 87.12462
-:measurement_observer: CIE 1931
+:measurement_observer: 1
 :measurement_backing: 0 0 0
-:measurement_geometry: Unknown
-:measurement_flare: 0.999%
-:measurement_illuminant: D65
-:technology: Cathode Ray Tube Display
+:measurement_geometry: 0
+:measurement_flare: 0.00999
+:measurement_illuminant: 2
+:technology: 'CRT '
 :red_trc: "(Binary data 2060 bytes, use -b option to extract)"
 :green_trc: "(Binary data 2060 bytes, use -b option to extract)"
 :blue_trc: "(Binary data 2060 bytes, use -b option to extract)"
 :aperture: 2.8
-:drive_mode: Single-frame Shooting
+:drive_mode: 2
 :image_size: 2248x4000
-:lens: 4.3 - 21.5 mm
-:lens_id: Unknown 4-21mm
-:megapixels: 9.0
-:shooting_mode: Full auto
-:shutter_speed: !ruby/object:Rational
-  denominator: 800
-  numerator: 1
-:dof: inf (1.18 m - inf)
-:fov: 73.7 deg
-:hyperfocal_distance: 1.23 m
-:light_value: 11.9
+:lens: 4.3
+:lens_id: -1
+:megapixels: 8.992
+:shooting_mode: 10
+:shutter_speed: 0.00125
+:dof: 1.1832876105421 0
+:fov: 73.7048314510344
+:hyperfocal_distance: 1.22746132143318
+:light_value: 11.9366379390026

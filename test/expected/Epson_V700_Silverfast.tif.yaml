@@ -1,24 +1,24 @@
 ---
 :file_name: Epson_V700_Silverfast.tif
-:file_size: 15 MB
+:file_size: 15894719
 :file_type: TIFF
-:file_type_extension: tif
+:file_type_extension: TIF
 :mime_type: image/tiff
-:exif_byte_order: Big-endian (Motorola, MM)
+:exif_byte_order: MM
 :image_width: 4683
 :image_height: 3066
 :bits_per_sample: 8
-:compression: Uncompressed
-:photometric_interpretation: BlackIsZero
+:compression: 1
+:photometric_interpretation: 1
 :make: EPSON
 :model: Perfection V700/V750
-:orientation: Horizontal (normal)
+:orientation: 1
 :samples_per_pixel: 1
 :rows_per_strip: 1
 :x_resolution: 3200
 :y_resolution: 3200
-:planar_configuration: Chunky
-:resolution_unit: inches
+:planar_configuration: 1
+:resolution_unit: 2
 :software: SilverFast 8.5.0 r5 (May 22 2015)  bed2701 22.05.
 :artist: Sergey Morozov
 :xmp_toolkit: XMP Core 4.4.0-Exiv2
@@ -29,8 +29,8 @@
 :maker_note_unknown_binary: "(Binary data 130 bytes, use -b option to extract)"
 :exif_image_width: 4683
 :exif_image_height: 3066
-:subfile_type: Reduced-resolution image
+:subfile_type: 1
 :strip_offsets: "(Binary data 7238 bytes, use -b option to extract)"
 :strip_byte_counts: "(Binary data 4949 bytes, use -b option to extract)"
 :image_size: 4683x3066
-:megapixels: 14.4
+:megapixels: 14.358078
