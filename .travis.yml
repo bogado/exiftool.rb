@@ -1,6 +1,6 @@
 language: ruby
 script: bundle exec rake
-sudo: false
+sudo: required
 dist: trusty
 addons:
   apt:
